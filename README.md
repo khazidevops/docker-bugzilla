@@ -42,3 +42,6 @@ services:
 Waiting for bugzilla container healthy
 
 http://localhost/bugzilla
+
+
+<img width="1357" alt="image" src="https://github.com/khazidevops/docker-bugzilla/assets/150345653/8ede56cc-0d5d-48be-bbeb-3d27a3e89a23">
