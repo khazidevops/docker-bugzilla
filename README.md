@@ -25,9 +25,9 @@ services:
       - 80:80
       - 443:443
     environment:
-      BUGZILLA_ADMIN_EMAIL: "administrator@bugzilla.local"
+      BUGZILLA_ADMIN_EMAIL: "khazi.devops@gmail.com"
       BUGZILLA_ADMIN_NAME: "administrator"
-      BUGZILLA_ADMIN_PASS: "baoxian-sz"
+      BUGZILLA_ADMIN_PASS: "Nasru@2022"
       BUGZILLA_DB_HOST: "bugzilla-db"
       BUGZILLA_DB_PORT: "5432"
       BUGZILLA_DB_NAME: "bugs"
